@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stefan Ristić 👋</h1>
 
 <p align="center">
-  <b>Technical Artist · Game Developer · Full-Stack Web Developer</b><br>
+  <b>Medior Software Engineer · Game Developer · Full-Stack Web Developer</b><br>
   Unity &nbsp;·&nbsp; Blender &nbsp;·&nbsp; After Effects &nbsp;·&nbsp; HTML5 / TypeScript &nbsp;·&nbsp; Three.js &nbsp;·&nbsp; Pixi.js &nbsp;·&nbsp; Babylon.js
 </p>
 
