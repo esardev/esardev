@@ -19,17 +19,18 @@
 
 I work where **art meets engineering**. I build interactive experiences that look good, feel good and stay fast on mobile.
 
+- 🌐 **Production web.** I've shipped 40+ client websites with custom PHP CMS/admin panels, freelance and with Apis Development, since 2021.
 - 🎬 **Playable and ad creatives.** I was a Junior Creative Producer at **Replai**, working on creative production for mobile games with Unity, Blender, After Effects and DaVinci Resolve.
 - 🧊 **Real-time 3D on the web.** I build Three.js product configurators with custom shader patches, instancing and quality tiers for mobile, plus Babylon.js and Pixi.js games.
 - 🎮 **Games.** I make Unity/C# games, from game-jam builds with custom editor tools to a released horror game on itch.io.
-- 🌐 **Production web.** I've shipped 40+ client websites with custom PHP CMS/admin panels, freelance and with Apis Development, since 2021.
 - 🤖 **AI-assisted workflow.** I use Claude Code and other agentic tools every day for prototyping, coding, testing and asset pipelines.
 
 ## 🛠️ Toolbox
 
 <p>
   <img src="https://skillicons.dev/icons?i=unity,cs,blender,ae,pr,ps,threejs,ts,js,html,css&perline=11" alt="Unity, C#, Blender, After Effects, Premiere Pro, Photoshop, Three.js, TypeScript, JavaScript, HTML, CSS"><br>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,nextjs,tailwind,php,mysql,python,fastapi,postgres,git&perline=11" alt="React, Vite, Node.js, Next.js, Tailwind, PHP, MySQL, Python, FastAPI, PostgreSQL, Git">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,nextjs,tailwind,php,mysql,python,fastapi,postgres,git&perline=11" alt="React, Vite, Node.js, Next.js, Tailwind, PHP, MySQL, Python, FastAPI, PostgreSQL, Git"><br>
+  <img src="assets/ai-tools.svg" alt="ChatGPT, Claude">
 </p>
 
 **Also:** Shader Graph · URP · GLSL shader patching (Three.js `onBeforeCompile`) · Babylon.js · Pixi.js v8 · GSAP · Maya · Mixamo · DaVinci Resolve · Claude Code
